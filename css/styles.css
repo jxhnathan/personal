@@ -10132,24 +10132,4 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
- 
-  *,
-*::before,
-*::after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-html, body{
-    height:100%;
-    width: 100%;
-}
-
-body {
-  padding:50px;
-  margin:0;
-  overflow:hidden;
-  background-color:#FAFAFA;
-}
 }
